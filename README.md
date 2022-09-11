@@ -1,2 +1,2 @@
-# Projeto-Banco-de-Dados--Dio
+# Projeto Banco de Dados E-Commerce (DIO)
 Meu primeiro BD EER.
